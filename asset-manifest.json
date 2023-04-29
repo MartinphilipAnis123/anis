@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anis/static/css/main.e62f761f.css",
+    "main.js": "/anis/static/js/main.7403433d.js",
+    "static/js/787.1be24d91.chunk.js": "/anis/static/js/787.1be24d91.chunk.js",
+    "static/media/image.gif": "/anis/static/media/image.2c254ed90df796c522f5.gif",
+    "index.html": "/anis/index.html",
+    "main.e62f761f.css.map": "/anis/static/css/main.e62f761f.css.map",
+    "main.7403433d.js.map": "/anis/static/js/main.7403433d.js.map",
+    "787.1be24d91.chunk.js.map": "/anis/static/js/787.1be24d91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e62f761f.css",
+    "static/js/main.7403433d.js"
+  ]
+}
